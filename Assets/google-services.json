@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083117505168",
+    "project_id": "flickybird-8ed0e",
+    "storage_bucket": "flickybird-8ed0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083117505168:android:b95cf83a78191601cce615",
+        "android_client_info": {
+          "package_name": "com.hk.flickybird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083117505168-144817lcsjqf6os9rg54ffkob2n6n86t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCRntQR66YgRXM3LC2zT5kgGNqzq1pGsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083117505168-144817lcsjqf6os9rg54ffkob2n6n86t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
